@@ -107,13 +107,12 @@ The clock is software-only — there's no RTC module. On power-up it starts at 1
 
 ## Project layout
 Core/
-
-├── Inc/
-│ ├── main.h
-│ └── st7789.h
-└── Src/
-├── main.c
-└── st7789.c
+ Inc/
+  main.h
+  st7789.h
+ Src/
+  main.c
+  st7789.c
 
 Drivers/ # STM32 HAL
 schema/ # Wiring diagrams
@@ -122,7 +121,7 @@ screenshots/ # UI screenshots
 
 ---
 
-## Building
+## Building (or you can use the bin file directly!)
 
 1. Open the project in STM32CubeIDE
 2. Connect ST-Link (SWDIO → PA13, SWCLK → PA14)
