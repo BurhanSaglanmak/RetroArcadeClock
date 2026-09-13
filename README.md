@@ -1,4 +1,4 @@
-# Retro Clock
+# Retro Arcade Clock
 
 A small desktop clock with a retro CRT look, built on an STM32F401 and a 1.3" ST7789 display. It has three clock faces, a Flappy Bird game, and a time-set screen — all controlled with just two buttons.
 
