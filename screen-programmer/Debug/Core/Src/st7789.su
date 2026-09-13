@@ -1,0 +1,14 @@
+../Core/Src/st7789.c:8:13:SendCmd	16	static
+../Core/Src/st7789.c:13:13:SendData8	16	static
+../Core/Src/st7789.c:18:13:SendData16	24	static
+../Core/Src/st7789.c:24:13:SetWindow	32	static
+../Core/Src/st7789.c:43:6:ST7789_Init	8	static
+../Core/Src/st7789.c:73:6:ST7789_DrawPixel	16	static
+../Core/Src/st7789.c:80:6:ST7789_FillRect	296	static
+../Core/Src/st7789.c:105:6:ST7789_FillScreen	24	static
+../Core/Src/st7789.c:110:6:ST7789_DrawRect	32	static
+../Core/Src/st7789.c:120:6:ST7789_DrawLine	64	static
+../Core/Src/st7789.c:168:6:ST7789_DrawCircle	40	static
+../Core/Src/st7789.c:190:6:ST7789_FillCircle	48	static
+../Core/Src/st7789.c:241:6:ST7789_DrawChar	40	static
+../Core/Src/st7789.c:248:6:ST7789_DrawString	56	static
